@@ -1,0 +1,9 @@
+numpy
+tqdm
+scikit-learn
+transformers
+pickle
+kss
+textrankr
+soynlp
+nltk
